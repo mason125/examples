@@ -76,7 +76,7 @@ function flotr2()
     
     //describe what chart is for
     var DFTitle = {title:"Number of defects", radar:{show:true}};
-    var DATitle = {title:"Defect Acceptacnce Rate",bars:{show:true}};
+    var DATitle = {title:"Defect Acceptance Rate",bars:{show:true}};
     var TETitle = {title:"Number of Tests/Day"};
     var BTitle  = {title:"Number of wrong fixes", bars:{show:true}};
     
